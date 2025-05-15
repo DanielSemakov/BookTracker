@@ -1,3 +1,8 @@
+package com.danielsemakov.booktracker;
+
+
+import com.danielsemakov.booktracker.LoginPage;
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */

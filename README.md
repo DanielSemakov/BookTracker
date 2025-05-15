@@ -25,7 +25,7 @@ Users can make multiple accounts to store multiple collections.
    mvn exec:java
    ```
 ## Usage
-[Watch demo video](BookTrackerPresentation.mkv)
+[Watch demo video](https://drive.google.com/file/d/18mzEbzkvLK1SuZUpneAbLHMwFFzTB9Vo/view?usp=sharing)
 
 ## License
 Distributed under the MIT License.
